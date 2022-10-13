@@ -55,7 +55,7 @@ ELIZA(1966)
 
 ## F score
 - Weighted 조화 평균(낮은 점수에 가까운 보수적인 평균)을 사용
-- F = 1 / ((alpha) / P + (1 - alpha) / R) = (beta^2 + 1)PR / beta^2(P) + R (when beta = ((-alpha + 1) / alpha)^(1/2))
+- F = 1 / ((alpha) / P + (1 - alpha) / R) = (beta^2 + 1)PR / (beta^2(P) + R) (when beta = ((-alpha + 1) / alpha)^(1/2))
 
 # Lexical Similarity
 
