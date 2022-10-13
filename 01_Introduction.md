@@ -50,7 +50,7 @@ ELIZA(1966)
 ## Recall
 - coverage(fixing false negatives)
 - 맞춰야 할 것을 틀리는것(잘못 틀림)
-- promiscuous하게 판단한다면recall 올라감
+- promiscuous하게 판단한다면 recall 올라감
 -  R = tp / (tp + fn)
 
 ## F score
